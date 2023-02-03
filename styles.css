@@ -1,0 +1,37 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+}
+#img-div{
+    background-color: white;
+    margin: 15px;
+}
+.image{
+    margin: 10px 20px 10px 20px;
+    max-width: 100%;
+    height: auto
+}
+#img-div p{
+    padding-bottom: 20px;
+    text-align: center;
+}
+.group h2{
+    font-weight: bolder;
+    align-items: center;
+    margin: 50px 0 30px 0;
+}
+ul{
+    margin: 0 25%;
+    text-align: left;
+    font-size: 18.5px;
+    line-height: 25px;
+}
+article{
+    text-align: left;
+    font-size: large;
+    margin: 3% 27%;
+    line-height: 25px;
+}
+footer h2{
+    text-align: center;
+}
